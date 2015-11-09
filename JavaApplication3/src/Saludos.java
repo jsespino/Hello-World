@@ -6,6 +6,6 @@
         String cadena;
         System.out.println("Introduce un nombre: ");
         cadena = sc.nextLine();
-        System.out.println("Buenos Días " + cadena +" Chao");
+        System.out.println("Buenos Días " + cadena +" Chao y buenas suerte");
     }
 }
